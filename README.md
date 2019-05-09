@@ -1,2 +1,2 @@
-# Maze
-a program that explains the process of resolving the maze using the java language
+# a83-macd-labs
+Source code untuk kelas Azure
