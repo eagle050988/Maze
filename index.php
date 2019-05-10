@@ -22,7 +22,7 @@
        Nama  <input type="text" name="name" id="nama"/></br></br>
        Email <input type="text" name="email" id="email"/></br></br>
        Hobi <input type="text" name="hobi" id="hobi"/></br></br>
-       Ttl <input type="text" name="hobi" id="hobi"/></br></br>
+       Ttl <input type="text" name="ttl" id="ttl"/></br></br>
        <input type="submit" name="submit" value="Submit" />
  </form>
  </body>
