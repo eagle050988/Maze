@@ -19,9 +19,10 @@
  <h1>Register here!</h1>
  <p>Isi nama dan alamat email Anda, lalu klik Kirim untuk mendaftar. <strong>Submit</strong> to register.</p>
  <form method="post" action="index.php" enctype="multipart/form-data" >
-       Name  <input type="text" name="name" id="Nama"/></br></br>
-       Email <input type="text" name="email" id="Email"/></br></br>
-       Job <input type="text" name="hobi" id="Hobi"/></br></br>
+       Nama  <input type="text" name="name" id="nama"/></br></br>
+       Email <input type="text" name="email" id="email"/></br></br>
+       Hobi <input type="text" name="hobi" id="hobi"/></br></br>
+       Ttl <input type="text" name="hobi" id="hobi"/></br></br>
        <input type="submit" name="submit" value="Submit" />
  </form>
  </body>
