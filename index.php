@@ -27,11 +27,6 @@
  </form>
 
 <?php
-    $host = "<Nama server database Anda>";
-    $user = "<Nama admin database Anda>";
-    $pass = "<Password admin database Anda>";
-    $db = "<Nama database Anda>";
-
     try {
         $conn = new PDO("tcp:mandardeveloperwebserver.database.windows.net,1433; Database = mandardeveloperwebapp", "mandardeveloper", "wawan1234@");
         $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
