@@ -28,7 +28,7 @@
  <?php
     $host = "mandardeveloperwebserver.database.windows.net";
     $user = "mandardeveloper";
-    $pass = "wawan1234";
+    $pass = "wawan1234@";
     $db = "Registration";
 
     try {
